@@ -5,6 +5,9 @@ import pandas as pd
 import streamlit as st
 
 """
+st.markdown("# Main page 🎈")
+st.sidebar.markdown("# Main page 🎈")
+
 # Welcome to Streamlit!
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
